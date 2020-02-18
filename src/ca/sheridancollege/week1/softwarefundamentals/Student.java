@@ -25,8 +25,6 @@ public class Student {
         return name;
     }
 
-    /**
-     * Set the value of name
      *
      * @param name new value of name
      */
