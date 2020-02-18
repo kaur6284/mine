@@ -15,6 +15,7 @@ public class Student {
     private int Id;
     private double value;
     private String surname;
+    private int number;
     /**
      * Get the value of name
      *
